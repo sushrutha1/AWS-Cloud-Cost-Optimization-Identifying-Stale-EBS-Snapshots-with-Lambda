@@ -17,6 +17,7 @@ The Lambda function:
 *Technology used: AWS Lambda, IAM, EC2, EBS, Boto3.
 
 ⚙️ Steps to Implement
+
 1️⃣ Create an EC2 Instance & Snapshot
 
 *Launch a t2.micro / t3.micro EC2 instance (Free Tier eligible).
